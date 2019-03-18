@@ -1,0 +1,17 @@
+{
+  "name": "here-twilio",
+  "version": "1.0.0",
+  "description": "Example project for blog demo featuring HERE Location Services and Twilio Programmable SMS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dylan Babbs <dylan.babbs@gmail.com> (http://dylanbabbs.com)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "ngrok": "^2.2.23",
+    "request": "^2.83.0",
+    "twilio": "^3.9.3"
+  }
+}
